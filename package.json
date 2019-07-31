@@ -1,6 +1,6 @@
 {
-  "name": "maxmind",
-  "version": "0.0.0-development",
+  "name": "maxmind-nedmedia",
+  "version": "0.0.1",
   "homepage": "https://github.com/runk/node-maxmind",
   "description": "IP lookup using Maxmind databases",
   "keywords": [
@@ -23,6 +23,7 @@
     "Andrew N Golovkov @AndorCS"
   ],
   "dependencies": {
+    "big-integer": "^1.6.44",
     "tiny-lru": "6.0.1"
   },
   "devDependencies": {
